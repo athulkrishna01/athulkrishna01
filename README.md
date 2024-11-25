@@ -1,4 +1,4 @@
-# ⭐️ I'M Athul Krishna 🦁
+# ⭐️ I'M Athul Krishna 
 
 
 i'm a python developer and ai tools manager
