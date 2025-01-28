@@ -1,21 +1,21 @@
-# ⭐️ I'M Athul Krishna 
+#  I'M Athul Krishna 
 
 
 i'm a python developer and ai tools manager
 
-## ⭐️ SKILLS 🕸
+##  SKILLS 🕸
 
 - Python developer
 - Ai tools management
 - My sql
 - C++
 
-## ⭐️ EDUCATION QUALIFICATIONS 🎖
+##  EDUCATION QUALIFICATIONS 🎖
 
 - Diploma in electrical and electronics engineering 
 - Higher secondary 
 
-<h2>⭐️ My Contributions 🐍</h2>
+<h2> My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
