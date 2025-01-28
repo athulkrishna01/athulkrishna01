@@ -3,19 +3,19 @@
 
 i'm a python developer and ai tools manager
 
-##  SKILLS 🕸
+##  SKILLS 
 
 - Python developer
 - Ai tools management
 - My sql
 - C++
 
-##  EDUCATION QUALIFICATIONS 🎖
+##  EDUCATION QUALIFICATIONS 
 
 - Diploma in electrical and electronics engineering 
 - Higher secondary 
 
-<h2> My Contributions 🐍</h2>
+<h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
@@ -24,7 +24,7 @@ i'm a python developer and ai tools manager
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=athulkrishna01&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
