@@ -14,7 +14,6 @@ i'm a python developer and ai tools manager
 
 - Diploma in electrical and electronics engineering 
 - Higher secondary 
-  
   <br/><br/><br/>
 </div>
 <hr/>
